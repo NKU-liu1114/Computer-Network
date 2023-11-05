@@ -1,0 +1,100 @@
+
+#background{
+    background-image: url("img/mybackground.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.welcome{
+    font-family: "Sofia";
+    font-size:60px;
+    text-align:center;
+    margin-top: 50px;
+    margin-left: 200px;
+    color:rgb(38, 147, 242);
+}
+.intro{
+    background-color: rgb(133, 238, 152);
+    opacity:0.5;
+    height:500px;
+    width:620px;
+    margin-left: 430px; 
+    border-radius: 8px;
+    margin-top: 4px; 
+    color:rgb(18, 127, 237);
+}
+.label{
+    float:left;
+    height:400px;
+    width:200px;
+}
+#butt1{
+    border-radius: 8px;
+    font-family:"KaiTi";
+    color:black;
+    margin-top: 80px;
+    margin-left:50px;
+    transform: rotate(-20deg);
+    font-size: 30px;
+
+}
+#butt2{
+    border-radius: 8px;
+    font-family:"KaiTi";
+    color:black;
+    margin-top: 80px;
+    margin-left:50px;
+    transform: rotate(-20deg);
+    font-size: 30px;
+
+}
+#butt3{
+    border-radius: 8px;
+    font-family:"KaiTi";
+    color:black;
+    margin-top: 80px;
+    margin-left:50px;
+    transform: rotate(-20deg);
+    font-size: 30px;
+
+}
+.content{
+    width:380px;
+    height: 360px;
+    margin-left:200px;
+    float:center;
+    padding:30px;
+}
+#text1{
+    visibility:hidden;
+    color:black;
+    font-size: 30px;
+    font-family:"KaiTi";
+    margin-top: 40px;
+    font-weight: bold;
+}
+#text2{
+    visibility:hidden;
+    color:black;
+    font-size: 30px;
+    font-family:"KaiTi";
+    margin-top: 90px;
+    font-weight: bold;
+}
+#text3{
+    visibility:hidden;
+    color:black;
+    font-size: 30px;
+    font-family:"KaiTi";
+    margin-top: 90px;
+    font-weight: bold;
+}
+#buttom{
+    font-family: "KaiTi";
+    color:black;
+    text-align: center;
+    font-size: 20px;
+    width:620px;
+    height:80px;
+}
+
+
